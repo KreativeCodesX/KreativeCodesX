@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Emmanuel! (KreativeCodesX)  
 
-<!--
-**KreativeCodesX/KreativeCodesX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer | Tech Enthusiast | Content Creator**  
+💡 Passionate about **web development, UI/UX, and coding projects**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠 **Tech Stack**
+- 💻 HTML | CSS | Bootstrap | JavaScript (Learning)  
+- 🎨 UI/UX | Responsive Design  
+- ⚡ Open to collaborations and innovative projects  
+
+---
+
+ 📌 Current Projects
+- 🛒 Building an **e-commerce furniture website**  
+- 🌦 Working on a **weather app UI**  
+- 🎬 Creating **tech & video editing content**  
+
+
+
+🌍 Let's Connect!
+📺 YouTube: Kreative Emma 
+🐦 Twitter: kreative1  
+📧 Email: emmanuelsam7554@gmail.com  
+
+
+
+⚡ *Always learning, always building!* 🚀 
